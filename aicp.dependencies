@@ -2,7 +2,8 @@
     {
       "repository": "pixelexperience-devices/kernel_xiaomi_vince",
       "target_path": "kernel/xiaomi/vince",
-      "branch": "twelve-plus"
+      "branch": "twelve-plus",
+      "branch": "github"
     },
     {
       "repository": "rk134/vendor_xiaomi_vince",
